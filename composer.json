@@ -1,6 +1,6 @@
 {
-  "name": "ydq/HelloWord",
-  "description": "HelloWord...",
+  "name": "ydq/helloword",
+  "description": "helloword...",
   "type": "library",
   "require": {
     "php": ">=7.1.0"
