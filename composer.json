@@ -5,6 +5,7 @@
   "keywords": [
     "HelloWord"
   ],
+  "minimum-stability": "stable",
   "homepage": "",
   "license": "Apache-2.0",
   "authors": [
