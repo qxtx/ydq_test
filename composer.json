@@ -1,0 +1,24 @@
+{
+  "name": "ydq/HelloWord",
+  "description": "HelloWord...",
+  "type": "library",
+  "keywords": [
+    "HelloWord"
+  ],
+  "homepage": "",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "yedaoqiang",
+      "email": "2365441302@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ydq\\": "src/"
+    }
+  }
+}
