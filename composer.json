@@ -2,21 +2,17 @@
   "name": "ydq/HelloWord",
   "description": "HelloWord...",
   "type": "library",
-  "keywords": [
-    "HelloWord"
-  ],
-  "minimum-stability": "stable",
-  "homepage": "",
-  "license": "Apache-2.0",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "license": "MIT",
   "authors": [
     {
       "name": "yedaoqiang",
       "email": "2365441302@qq.com"
     }
   ],
-  "require": {
-    "php": ">=7.1.0"
-  },
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "ydq\\": "src/"
